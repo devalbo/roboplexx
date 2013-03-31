@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-    name='RoboplexxHost',
+    name='Roboplexx',
     version='0.1dev',
-    packages=['rpxhost',],
+    packages=['roboplexx',],
     license='',
     long_description=open('README.md').read(),
     requires=[],
