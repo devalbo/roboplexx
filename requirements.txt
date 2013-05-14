@@ -1,0 +1,3 @@
+git+git://github.com/devalbo/roboplexx-proto.git
+protobuf==2.5.0
+pyserial==2.6
